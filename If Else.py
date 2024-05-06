@@ -15,3 +15,7 @@ if action3=="run":
 else:
   print("You shred the tiger to pieces and eat it raw.")
   action4=input("You’re at a crossroads.Do you go left, right, or straight?")
+if action4=="right":
+  print("You march on and find the buried treasure! Yippee!!")
+else:
+  print("You are trampled by a herd of wildebeest. Game over.")
